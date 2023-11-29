@@ -1,0 +1,16 @@
+.parent {
+  display: grid;
+  place-content: center;
+  width: 400px;
+  height: 200px;
+  margin: 20px auto;
+  text-align: center;
+  border-radius: 16px;
+  background-color: blueviolet;
+}
+.title {
+  display: inline-block;
+  color: white;
+  font-size: 50px;
+  font-weight: 900;
+}
